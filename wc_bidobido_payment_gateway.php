@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce Bidobido Payment Gateway
- * Plugin URI: http://donmik.com
+ * Plugin URI: https://github.com/donmik/wc-bidobido
  * Description: Bidobido.com payment gateway.
  * Version: 1.0
  * Author: donmik.com

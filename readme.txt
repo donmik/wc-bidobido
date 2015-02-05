@@ -12,4 +12,4 @@ Bidobido.com payment gateway.
 
 == Description ==
 
-Allow users to pay with theirs credit card trought <a href="bidobido.com" title="bidobido.com">bidobido</a>. This plugin has been made using <a href="https://github.com/jesusangel/wc-sermepa/" title="WooCommerce Sermepa Payment Gateway">WooCommerce Sermepa Payment Gateway</a>.
+Allow users to pay with theirs credit card trought <a href="bidobido.com" title="bidobido.com">bidobido</a>. This plugin has been made using <a href="https://github.com/jesusangel/wc-sermepa/" title="WooCommerce Sermepa Payment Gateway">WooCommerce Sermepa Payment Gateway</a>. You can contribute on <a href="https://github.com/donmik/wc-bidobido" title="Github">Github</a>.
